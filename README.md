@@ -45,3 +45,9 @@
 <img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right: 10px;" />
 <img align="left" alt="Scala" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" style="padding-right: 10px;" />
 <img align="left" alt="Elm" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" style="padding-right: 10px;" />
+
+<br />
+<br />
+<br />
+
+[![Markus' Github Stats](https://github-readme-stats.vercel.app/api?username=msuwignyo)](https://github.com/anuraghazra/github-readme-stats)
