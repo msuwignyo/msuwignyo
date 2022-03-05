@@ -12,7 +12,7 @@
 - Grinding [LeetCode](https://leetcode.com/msuwignyo/)
 - Do some front-end challanges at [Frontend Mentor](https://www.frontendmentor.io/profile/msuwignyo)
 
-### Personal Projects
+### Personal Mini-Projects
 
 - [Product feedback app](https://product-feedback-app-inky.vercel.app/)
 - [Job listings with filtering](https://job-listings-sigma.vercel.app/)
