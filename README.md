@@ -4,8 +4,13 @@
 
 - 🔭 I'm currently working with my client [Siloam Hospitals Group](https://www.siloamhospitals.com/)
 - 🌱 I'm interested at front-end development
-- 🥅 2022 Goals: learn functional programming, get certified at AWS Cloud Practitioner
 - ⚡ Fun fact: I love to play piano and video games
+
+### Current Activities
+
+- Taking [Functional Programming in Scala](https://www.coursera.org/specializations/scala) specialization
+- Grinding [LeetCode](https://leetcode.com/msuwignyo/)
+- Do some front-end challanges at [Frontend Mentor](https://www.frontendmentor.io/profile/msuwignyo)
 
 ### Personal Projects
 
