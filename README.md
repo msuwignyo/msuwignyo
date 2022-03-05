@@ -1,16 +1,42 @@
 ### Hi there 👋
 
-<!--
-**m4rk00s/m4rk00s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Markus, a software engineer at Jakarta, Indonesia
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working with my client [Siloam Hospitals Group](https://www.siloamhospitals.com/)
+- 🌱 I'm interested at front-end development
+- 🥅 2022 Goals: learn functional programming, get certified at AWS Cloud Practitioner
+- ⚡ Fun fact: I love to play piano and video games
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Personal Projects
+
+- [Product feedback app](https://product-feedback-app-inky.vercel.app/)
+- [Job listings with filtering](https://job-listings-sigma.vercel.app/)
+- [Tic Tac Toe game](https://tic-tac-toe-nine-sigma.vercel.app/)
+- [Tip calculator app](https://tip-calculator-app-eta.vercel.app/)
+
+### Tools I've used professionally
+
+<img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 10px;" />
+<img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right: 10px;" />
+<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right: 10px;" />
+<img align="left" alt="Bootstrap" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="padding-right: 10px;" />
+<img align="left" alt="SASS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right: 10px;" />
+<img align="left" alt="C#" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right: 10px;" />
+<img align="left" alt=".NET Core" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right: 10px;" />
+<img align="left" alt="SQL Server" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="padding-right: 10px;" />
+<img align="left" alt="Visual Studio" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Chrome" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" style="padding-right: 10px;" />
+
+<br />
+<br />
+
+### Something I've learned
+
+<img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right: 10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right: 10px;" />
+<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right: 10px;" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right: 10px;" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right: 10px;" />
+<img align="left" alt="Scala" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" style="padding-right: 10px;" />
+<img align="left" alt="Elm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" style="padding-right: 10px;" />
