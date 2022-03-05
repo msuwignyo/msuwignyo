@@ -38,10 +38,10 @@
 
 ### Something I've learned
 
-<img align="left" alt="Tailwind CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right: 10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right: 10px;" />
-<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right: 10px;" />
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right: 10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right: 10px;" />
-<img align="left" alt="Scala" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" style="padding-right: 10px;" />
-<img align="left" alt="Elm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" style="padding-right: 10px;" />
+<img align="left" alt="Tailwind CSS" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right: 10px;" />
+<img align="left" alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right: 10px;" />
+<img align="left" alt="Redux" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right: 10px;" />
+<img align="left" alt="TypeScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right: 10px;" />
+<img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right: 10px;" />
+<img align="left" alt="Scala" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" style="padding-right: 10px;" />
+<img align="left" alt="Elm" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" style="padding-right: 10px;" />
