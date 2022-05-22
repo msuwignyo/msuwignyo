@@ -2,7 +2,7 @@
 
 ### I'm Markus, a software engineer at Jakarta, Indonesia
 
-- 🔭 I'm currently working with my client [Siloam Hospitals Group](https://www.siloamhospitals.com/)
+- 🔭 I'm currently working at [Traveloka](https://www.traveloka.com/en-id/)
 - 🌱 I'm interested at front-end development
 - ⚡ Fun fact: I love to play piano and video games
 
