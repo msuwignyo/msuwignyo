@@ -3,14 +3,25 @@
 ### I'm Markus, a software engineer at Jakarta, Indonesia
 
 - 🔭 I'm currently working at [Traveloka](https://www.traveloka.com/en-id/)
-- 🌱 I'm interested at front-end development
+- 🌱 I'm interested at web development
 - ⚡ Fun fact: I love to play piano and video games
 
 ### Current Activities
 
-- Taking [Functional Programming in Scala](https://www.coursera.org/specializations/scala) specialization
-- Grinding [LeetCode](https://leetcode.com/msuwignyo/)
-- Do some front-end challanges at [Frontend Mentor](https://www.frontendmentor.io/profile/msuwignyo)
+- Taking [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala) (1/5)
+- Taking [Java for Beginners](https://hyperskill.org/tracks/8) (1/3)
+
+### Personal Book Recommendations
+
+#### Functional Programming
+- [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
+
+#### C#
+- [C# in Depth, Fourth Edition](https://www.manning.com/books/c-sharp-in-depth-fourth-edition)
+
+#### ASP.NET
+- [ASP.NET 4.0 in Practice](https://www.manning.com/books/asp-dot-net-4-0-in-practice)
+- [ASP.NET AJAX in Action](https://www.manning.com/books/asp-dot-net-ajax-in-action)
 
 ### Personal Mini-Projects
 
