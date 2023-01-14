@@ -25,6 +25,7 @@
 
 ### Personal Mini-Projects
 
+### 2022
 - [Product feedback app](https://product-feedback-app-inky.vercel.app/)
 - [Job listings with filtering](https://job-listings-sigma.vercel.app/)
 - [Tic Tac Toe game](https://tic-tac-toe-nine-sigma.vercel.app/)
