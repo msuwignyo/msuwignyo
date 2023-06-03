@@ -25,6 +25,9 @@
 
 ### Personal Mini-Projects
 
+### 2023
+- [Dictionary Web App](https://dictionary-web-app-eight-tau.vercel.app/)
+
 ### 2022
 - [Product feedback app](https://product-feedback-app-inky.vercel.app/)
 - [Job listings with filtering](https://job-listings-sigma.vercel.app/)
