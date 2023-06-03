@@ -27,7 +27,7 @@
 - [Tic Tac Toe game](https://tic-tac-toe-nine-sigma.vercel.app/)
 - [Tip calculator app](https://tip-calculator-app-eta.vercel.app/)
 
-### Tools, Frameworks, and Languages I used professionally
+### Tools, Frameworks, and Languages I use professionally
 
 ### 2022 &mdash; now
 
