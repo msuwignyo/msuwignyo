@@ -2,7 +2,7 @@
 
 ### I'm Markus, a software engineer at Jakarta, Indonesia
 
-- 🔭 I'm currently working at [Traveloka](https://www.traveloka.com/en-id/)
+- 🔭 I'm currently working at [Samsung R&D Institute Indonesia (SRIN)](https://www.samsung.com/id/srin/)
 - 🌱 I'm interested at **web development** and **functional programming**
 
 ### Personal Book Recommendations
