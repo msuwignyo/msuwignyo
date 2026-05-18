@@ -18,6 +18,9 @@
 
 ### Personal Mini-Projects
 
+### 2026
+- [Personal Website](https://msuwignyo-blog.vercel.app/)
+
 ### 2023
 - [Dictionary Web App](https://dictionary-web-app-eight-tau.vercel.app/)
 
